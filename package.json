@@ -1,0 +1,11 @@
+{
+  "name": "norwegian-attractions",
+  "version": "1.0.0",
+  "description": "A module for places to visit in Norway",
+  "main": "index.js",
+  "author": "Even Stensberg<evenstensberg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
